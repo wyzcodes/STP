@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "26c8ed16847937a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e799e31d210dd38d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "STP601 Survey in Science, Technology and Public Policy/W1-1. Conceptualizing Public Policy.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e51e69f8033de5f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "071e100ddc6158f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c07b91874423e051",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b61f1fcb13744133",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2752dec27fa3221",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b4b76a2aac490393",
+    "type": "split",
+    "children": [
+      {
+        "id": "840e98cd121c1d9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05d9562886eee6a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STP601 Survey in Science, Technology and Public Policy/W1-1. Conceptualizing Public Policy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87916be4170183d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STP601 Survey in Science, Technology and Public Policy/W1-1. Conceptualizing Public Policy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62a765fbe8348854",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f617fd2f633941b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STP601 Survey in Science, Technology and Public Policy/W1-1. Conceptualizing Public Policy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e799e31d210dd38d",
+  "lastOpenFiles": [
+    "STP601 Survey in Science, Technology and Public Policy/W1-2. Wicked Problems, Implications for Public Policy and Management.md",
+    "STP601 Survey in Science, Technology and Public Policy/W1-1. Conceptualizing Public Policy.md",
+    "STP601 Survey in Science, Technology and Public Policy/W1-2. Wicked Problems, Implications for Public Policy and Management.pdf",
+    "STP601 Survey in Science, Technology and Public Policy/W1-0. Introduction.md",
+    "STP601 Survey in Science, Technology and Public Policy/W0. STP601 Class Info.md",
+    "Actors.md",
+    "Social pluralism.md",
+    "Intractable disputes.md",
+    "Technical rationality.md"
+  ]
+}
