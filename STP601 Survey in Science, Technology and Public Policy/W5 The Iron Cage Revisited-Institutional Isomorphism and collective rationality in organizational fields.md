@@ -1,0 +1,49 @@
+Iron Cage
+rational actors make their organizations increasingly similar as they try to change them. 
+3 Isomorphic process
+1) Coercive
+2) Mimetic
+3) normative
+
+-> Hypothesis about the impact of resource centralization and dependency, goal ambiguity and technical uncertainty, and professionalization and structuration on isomorphic change
+Implications for Theories of organizations and social change
+
+# Intro
+* Max Weber막스 베버 - Rationalist(이성주의자/합리주의자) spirit ushered in by asceticism(금욕주의) had achieved a momentum of its own and that under capitalism, the rationalist order had become an iron cange in which humanity was, save for the possibility of prophetic예언 revival, imprisoned "perhaps until the last ton of fossilized coal is burnt" (Weber, 1952:181-82)
+* Essay on bureaurcary: contending that bureaucracy, the rational spirit's organizational manifestation, was so efficient and powerful a means of controlling men and women that, once established, the momentum of bureaucratization was irreversible. (Webber 1968)
+
+* 근대 유럽에서 자본주의의 발생을 프로테스탄티즘, 특히 칼뱅주의의 교리 하에서 금욕과 근로에 힘쓰는 종교적 생활태도와 관련지어 설명함. 
+* 맠시즘을 유물사관에 의하여 주관적으로 구성된 하나의 이념형이라 봄으로서 상대화.
+* 여러 경제적 요인에 의하여 역사적 인과관계를 설명하는 유물사관. 종교나 정치 영역에서 행위의 동기와 관련시켜 역사적현상을 설명하려고 함. 
+
+* Bureaucracy had spread continuously in the 80 yrs Weber wrote
+* The engine of organizational rationalization has shifted. 
+* Weber: Bureaucratization resulted by 3 causes
+	1) ==Competition among capitalist firms in the marketplace==
+	2) Competition among states
+	3) increasing ruler's need to control their staff and citizenry
+	4) bourgeois demands for equal protection under the law
+"It is primarily the capitalist market economy which demands that the official business of administration be discharged precisely, unambiguously, continuously, and with as much speed as possible. Normally, the very large, modern capitalist enterprise are themselves unequalled models of tstrict bureaucratic organization"
+
+### Now
+Reason of Bureaucratization and rationalization have changed. 
+	Has already achieved
+Structural changes in organizations seems less driven by competition or by the need for efficiency. 
+
+Out of structuration of organizational fields. 
+
+effected by state and professions, which are great rationalizers of the second half of the twentieth century. 
+
+Highly structured organizational fields provide a context in which individual efforts to deal rationally with uncertainty and constraint often lead, in the aggregate to homgeneity in structure, culture, and output
+
+# Organizational Theory and Organizational diversity
+Why there is homogeneity of organizational forms and practices
+
+Organization history study
+* emergence and structuration of an organizational field as a result of the activities of a diverse set of organizations
+* homogenization once the field is established.
+
+* Coercive isomorphism (강제적) by political influence and problem of legitimacy
+* mimetic isomorphism(모방) from standard responses to uncertainty
+* normative isomorphism 규범적인 associated with professionalization
+* 
