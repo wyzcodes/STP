@@ -119,3 +119,33 @@ Standardization
 Covid19 - individual level. 
 diffusion of policy at a national level, 
 Research question in particular policy field, international influence would be too naive. Almost impossible solely embedded in a particular context 
+
+
+### Rogers(1962)
+* Why tech innovations and new ideas can be spread beyond national boundary 
+* ERP system, info systems.. 
+* Individual lvl - Digital technology as a general purpose technology ,일반목적기술 
+* Macro level - drone. 
+	* The acceptance and diffusion of the innovative smar phone use
+* Diffusion of SYSTEM 
+* national innovation system, has been diffused to other countries, 
+
+
+International policy diffusion occurs when governemtn policy deciion in a given country are systematically conditioned by prior policy choices made in other countries. 
+
+
+project level - diffused to other contries. 
+
+Politics ex) democracy , access to info  value-laden policies
+
+Early notion to diffusion - policy politics polity 
+
+
+
+Institutional theory comes in - why different field of international policies 
+
+why different actor adop t similar structuers over agency, when there is de-institutionalization happen, when static view cann ot be explicit. 
+- static view, structure, 
+
+Geographical approcimatic, ex) policies are from japan . legal setting,,, 
+diffusionist perspective underestimate the de-institutionalization .
