@@ -24,8 +24,6 @@ identify particular field & includes key stakeholders?
 * When particular agency cn arigid influencial legitimacy, then structure chagnes. 
 	* When exactly and what causes? de-institutionalize process 탈제도화 
 
-
-
 # DeInstitutionalization 
 * Norm & Sanction 
 	* Alternative 한 paradigm chagne 는 언제 일어나나? 
@@ -149,3 +147,12 @@ why different actor adop t similar structuers over agency, when there is de-inst
 
 Geographical approcimatic, ex) policies are from japan . legal setting,,, 
 diffusionist perspective underestimate the de-institutionalization .
+
+Domestic & Internatinonal actors shall be considered
+	* Discuss diff frameworks 
+Stakeholder mapping & criteria for public policy 
+How we can define partial failure of policy? -- stakeholder matter
+social constructive. evaluation framework, who has power, who are the key components? 
+
+Research question-preliminary title은 계속 바뀔것임. 한 문장으로 만들어보기. workshop에서 피어리뷰 할 것. sharpening the research question - 3~4 sub research questions would be developed. 
+Identify the problem. 
