@@ -1,4 +1,4 @@
-#STP510 #ReviewNote by Yunji Woo
+#STP510 #ReviewNote #Week2 by Yunji Woo
 # Technical Change and Economic Theory
 by Giovanni Dosi, Luc Soete
 

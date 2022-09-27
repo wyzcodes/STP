@@ -1,3 +1,4 @@
+#STP514 #Week2
 FDA 1988, US Food and Drug Administration was shut down by demonstrators from the aggressive activist organization ACT UP(AIDS Coalition to Unleash Power)
 
 - Draw attention to FDA's slow process for approving new AIDS drugs
