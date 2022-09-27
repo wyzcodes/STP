@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "0a75c0f4cc4d3f0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b27a7d15f1aac21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "STP514 Philosopy of Science Policy/W5-2. Distinguishing between legitimate and illegitimate roles for values in transdisciplinary research.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75d12e4a99c98af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dda77d1db68d4bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c89c35b3acc06ebb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "035d51d5dd8ec2e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e4dc18bf97f5fe1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "866d0db3e9a0e3ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d541ab6e1e77eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a697cb4d98d2d7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W5-2. Distinguishing between legitimate and illegitimate roles for values in transdisciplinary research.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07e5edbcdf3575ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W5-2. Distinguishing between legitimate and illegitimate roles for values in transdisciplinary research.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ceedcf60b771276e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4816860b9b262d68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W5-2. Distinguishing between legitimate and illegitimate roles for values in transdisciplinary research.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8b27a7d15f1aac21",
+  "lastOpenFiles": [
+    "STP514 Philosopy of Science Policy/W5-1. New Demarcation Problem.md",
+    "STP514 Philosopy of Science Policy/W5-2. Distinguishing between legitimate and illegitimate roles for values in transdisciplinary research.md",
+    "STP514 Philosopy of Science Policy/W5-3. No one solution to the New demarcation problem-A view from the trenches.md",
+    "STP514 Philosopy of Science Policy/W5-0. Demarcation problem.md",
+    "STP514 Philosopy of Science Policy/W4-0. Philosophy of Science.md",
+    "STP514 Philosopy of Science Policy/W3-0. Uncertainty & Value decisions.md",
+    "STP514 Philosopy of Science Policy/Ch7. How can we engage with these values.md",
+    "STP514 Philosopy of Science Policy/Ch5. What if we are uncertain.md",
+    "STP514 Philosopy of Science Policy/W2 Introduction.md",
+    "ends-oriented biases.md"
+  ]
+}
