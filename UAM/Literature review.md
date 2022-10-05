@@ -1,6 +1,6 @@
 #STP601 #TermProject #UAM
 # Transpoort regulations - Germany as an Exmaple 
-Article 1[^Straubinger, A., 2019. Policies addressing possible urban air mobility market distortions – a first discussion. Transportation Research Procedia, Urban Mobility – Shaping the Future Together mobil.TUM 2018 – International Scientific Conference on Mobility and Transport Conference Proceedings 41, 64–66. https://doi.org/10.1016/j.trpro.2019.09.013]
+Article 1^[Straubinger, A., 2019. Policies addressing possible urban air mobility market distortions – a first discussion. Transportation Research Procedia, Urban Mobility – Shaping the Future Together mobil.TUM 2018 – International Scientific Conference on Mobility and Transport Conference Proceedings 41, 64–66. https://doi.org/10.1016/j.trpro.2019.09.013]
 
 Welfare effect, Different externalities reaching from noise and visibility to congestion at hubs 
 Main advantage - drastic increase in travel speed
