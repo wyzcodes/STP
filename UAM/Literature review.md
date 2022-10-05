@@ -11,7 +11,8 @@ Transport regulations
 - Policy Options and reasons for regulation 
 	- ex) Market entry of [[Uber]] 
 	- Reasons of regulation: Natural monopolies, externalities,  and informationm asymmetries. 
-	- Public authorities will closely monitor the changes and will either introduce policies affecting uam before or after its introduction 
+	- Public au
+	- thorities will closely monitor the changes and will either introduce policies affecting uam before or after its introduction 
 
 # Possible policy scenarios
 * Concessions

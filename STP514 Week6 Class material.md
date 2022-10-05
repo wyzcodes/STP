@@ -110,3 +110,18 @@ primedical research
 
 Nationalization? 
 - Cuba는 의약품을 국유화했음. 
+- NO FDA 
+- Patents have interventions on free market. 
+
+Institutional base drug analysis. 
+- Crucial, background assumptions are connecting hypothesis. 
+- beyond biological sciences data and theory 
+	- Infertility 
+	- powerful political moral issue 
+	- tiny population -> values of research relates. To challenge assumptions from different background 
+	- assumption and hypothesis connection - requires knowledge in social. diff perspectives. 
+	- recognizing value and having diversity. -- innovation related. ideals of criticizing, ongoing and continuing. science and engineering as a social organizers. 
+	- social knoweldge is different from individual. -- different models of social knowledge. 
+
+
+Descent problems 
