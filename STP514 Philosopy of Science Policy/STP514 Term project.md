@@ -22,7 +22,6 @@ https://www.orfonline.org/research/the-case-for-nurturing-military-scientists-in
 	* Industry-biased research: Public invested, but also the industry. Shares interests of industry and public
 	* International regulation 
 
-
 * Value-free ideal for science: AI on military use, Inductive risks. 
 	* Autonomous UAV, SWARM drones may lead Man and Unmanned teaming weapon system
 	* Internal problem of AI technology 
