@@ -10,3 +10,5 @@ Starts from 2022 Fall semester~
 * STP514: Philosopy of Science Policy
 * STP601: Survey in Science, Technology and Public Policy
 
+Libgen: Solution 사이트
+zlib: 이북 사이트
