@@ -1,6 +1,6 @@
 #UAM 
 
-[[PSU]] : Provider of Servidce for UAM 
+[[PSU]] : Provider of Service for UAM 
 
 * UAM 시장 전망
 -   ‘40년 시장 $6천억 (K-UAM), $1조 (Morgan Stanley)
