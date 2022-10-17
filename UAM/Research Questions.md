@@ -83,3 +83,46 @@
 	* ex) reference paper^[Koumoutsidi, A., Pagoni, I., & Polydoropoulou, A. (2022). A New Mobility Era: Stakeholders’ Insights regarding Urban Air Mobility. _Sustainability_, _14_(5), 3128.]
 * Market research
 	* ex) reference paper^[Straubinger, A. (2019). Policies addressing possible urban air mobility market distortions–a first discussion. _Transportation Research Procedia_, _41_.]
+
+
+goverment integration quarterly 
+
+풀 레퍼런스 계속 레퍼런스를 찾아야 함. 
+acceptance 
+profitability
+technology
+institutional challenge
+
+이동하는 연구주제는 단점이 있음. 장점은 미래에 대한 예측이 가능한 점. 
+Stakeholder들이 ConOps를 만들 때 어떻게 기여했는가 
+
+Data Governance
+* Opinion 
+* Pathways to sustainable urban mobility*
+Technological Forecasting and Social Change
+Intro + literature review 
+Socio Technical perspective 
+기술을 둘러싼 정치사회 문화, 
+
+configuration - 맥락의 개인화 기술과 상호작용하면서 형상이 바뀌는것. 
+SocioTechnic - 사회가 기술에 적용됨. 
+기술결정론 vs 양방향 socio technical. 
+sustainable urban mobility 
+
+Urban Mobility - 
+
+- 서울대 기창동 교수
+- 
+- 연대 서지원 교수 
+
+최한림 교수 안재명 교수 
+
+
+UAM 
+국내 자료를 많이 찾아야 함. 한국 정책 동향 파악. 
+도심항공모빌리티 정책 방향 
+로드맵 방법론이 있음. 
+
+중요한 literature나 중요한 reference가 뭐가 있을지 찾는것이 중요. 
+국문 자료 찾는것도 필요. 
+프로포절을 낸다고 생각하면 됨. 
