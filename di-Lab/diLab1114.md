@@ -1,0 +1,15 @@
+research question - 계속 ambiguous 할 예정. 
+자료는 국문으로 확인. 
+
+
+- Text book - 내가 하는 것으로. 
+	- Excel file we coordinate 1st week of Dec. 
+	- 수령 후 사진 앞뒤로 찍고. 
+	- 과제 - 모빌리티 관련. 미래 우주. 100만원. methodology social science research 
+- 연구재단 과제 - 신한카드 (이지바로) 김지혜선생님(2월까지 계심)
+- KAIST 과제들 - 우리은행 카드 (김보라 선생님) - 주로 김보라선생님이 기타업무담당. 
+- 과제 목록
+- 미래우주 신진연구ICT4D - 연구재단 
+- 모빌리티 - 카이스트 
+
+* 11/18 랩미팅 
