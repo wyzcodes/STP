@@ -42,9 +42,6 @@ VCDM: TOBT, TTOT, TSAT 시간 생성해서 버티포트를 효율적으로 사�
 AOP: 공항 운영 계획 Airport Operation Plan 
 모빌리티 플랫폼 사업자와 합작으로 MaaS 체계에 통합 가능
 * Outbound + Inbound
-
-
-
 항공산학융합원
 VCDM 협력적 의사결정 
 마일스톤 개념 - 시간 관리 개념이 차후 마일스톤에 영향을 미칠 수 있음. 
