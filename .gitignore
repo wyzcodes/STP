@@ -22,3 +22,14 @@ null*
 # Private files
 STP601 Survey in Science, Technology and Public Policy/W0. STP601 Class Info.md
 
+# Ignore files
+./*
+!/'AI Ethics'/*
+!/'NewSpace/*'
+!/'STP510 National Innovation System'/*
+!/'STP514 Philosopy of Science Policy'/*
+!/'STP601 Survey in Science, Technology and Public Policy'/*
+!/Seminar/*
+!/UAM/*
+!/di-Lab/*
+!.git/*
