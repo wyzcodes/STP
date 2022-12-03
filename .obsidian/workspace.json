@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "62fb5470003bc467",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db1602f51bbe46b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9505e6c339fac242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Ethics/AI Ethics on Military science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b09a88846bbe7292",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "aa7b5ce1adced611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W13-1. Can we put a price on Nature's Services (Ch5).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a56a3bea3afd6158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W13-2. Citizens, Consumers and the Environment - Reflections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7b6ac47d1e93507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UAM/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b416d39e4d039521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STP510 National Innovation System/W15-1. Cardwell's Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e397be8471b6c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b8573befd6dfa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec87cc8dffcd281",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "471dc85f7daa378e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2dc323e4124fb5e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4319d93b0095e81",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee63f54e8acc9233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47412d5cd5d1f9c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STP510 National Innovation System/W15-1. Cardwell's Law.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "984784b99027f91e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STP510 National Innovation System/W15-1. Cardwell's Law.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c4a58ba19630443",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "860ad99c94260197",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STP510 National Innovation System/W15-1. Cardwell's Law.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b416d39e4d039521",
+  "lastOpenFiles": [
+    "AI Ethics/AI Ethics on Military science.md",
+    "STP514 Philosopy of Science Policy/W13-2. Citizens, Consumers and the Environment - Reflections.md",
+    "STP514 Philosopy of Science Policy/W13-1. Can we put a price on Nature's Services (Ch5).md",
+    "STP514 Philosopy of Science Policy/W11-0. Stem cell Potentiality & Deliberative Democracy in science.md",
+    "2022-11-14.md",
+    "UAM/L3. On the understanding of the current status of urban air mobility development and its future prospects - Commuting in a flying vehicle as a new paradigm.md",
+    "UAM/L2. An Overview of current research and developments in urban air mobility - Setting the scene for UAM introduction.md",
+    "UAM/L1. Transport regulations - Germany as an Example.md",
+    "UAM/Dictionary.md",
+    "UAM/항공기 인증 체계.md"
+  ]
+}

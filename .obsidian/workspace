@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "62fb5470003bc467",
+    "type": "split",
+    "children": [
+      {
+        "id": "9505e6c339fac242",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "UAM/L2. An Overview of current research and developments in urban air mobility - Setting the scene for UAM introduction.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e397be8471b6c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b8573befd6dfa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec87cc8dffcd281",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "471dc85f7daa378e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2dc323e4124fb5e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4319d93b0095e81",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee63f54e8acc9233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47412d5cd5d1f9c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UAM/L2. An Overview of current research and developments in urban air mobility - Setting the scene for UAM introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "984784b99027f91e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UAM/L2. An Overview of current research and developments in urban air mobility - Setting the scene for UAM introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c4a58ba19630443",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "860ad99c94260197",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UAM/L2. An Overview of current research and developments in urban air mobility - Setting the scene for UAM introduction.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9505e6c339fac242",
+  "lastOpenFiles": [
+    "UAM/Research Questions.md",
+    "UAM/UAM 개발 사업 현황.md",
+    "2022-10-15.md",
+    "STP514 Philosopy of Science Policy/W7-2. Antiscience Zealotry - Values, Epistemic Risk, and the GMO Debate.md",
+    "STP514 Week6 Class material.md",
+    "STP514 Philosopy of Science Policy/W6-0. Industrialization of Pharmarcy.md",
+    "STP514 Philosopy of Science Policy/W7-1. Antiscience Zealotry - Values, Epistemic Risk, and the GMO Debate.md",
+    "STP514 Philosopy of Science Policy/W7-0. Dissents.md",
+    "STP514 Philosopy of Science Policy/W7-1. Climate skepticism and the manufacture of doubt.md",
+    "STP514 Philosopy of Science Policy/W6-1. Biomedical Research, Neglected Diseases, and Well-Ordered Science.md"
+  ]
+}
