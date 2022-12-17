@@ -71,14 +71,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STP510 National Innovation System/W15-1. Cardwell's Law.md",
+                "file": "STP510 National Innovation System/W15-1. Cardwell's Law in Action.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15fd4740bb466494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W6-0. Industrialization of Pharmarcy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STP510 National Innovation System/W15-1. Cardwell's Law.md",
+                "file": "STP514 Philosopy of Science Policy/W6-0. Industrialization of Pharmarcy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STP510 National Innovation System/W15-1. Cardwell's Law.md",
+                "file": "STP514 Philosopy of Science Policy/W6-0. Industrialization of Pharmarcy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STP510 National Innovation System/W15-1. Cardwell's Law.md"
+                "file": "STP514 Philosopy of Science Policy/W6-0. Industrialization of Pharmarcy.md"
               }
             }
           }
@@ -195,17 +207,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b416d39e4d039521",
+  "active": "15fd4740bb466494",
   "lastOpenFiles": [
-    "AI Ethics/AI Ethics on Military science.md",
-    "STP514 Philosopy of Science Policy/W13-2. Citizens, Consumers and the Environment - Reflections.md",
-    "STP514 Philosopy of Science Policy/W13-1. Can we put a price on Nature's Services (Ch5).md",
-    "STP514 Philosopy of Science Policy/W11-0. Stem cell Potentiality & Deliberative Democracy in science.md",
-    "2022-11-14.md",
-    "UAM/L3. On the understanding of the current status of urban air mobility development and its future prospects - Commuting in a flying vehicle as a new paradigm.md",
-    "UAM/L2. An Overview of current research and developments in urban air mobility - Setting the scene for UAM introduction.md",
-    "UAM/L1. Transport regulations - Germany as an Example.md",
-    "UAM/Dictionary.md",
-    "UAM/항공기 인증 체계.md"
+    "STP514 Philosopy of Science Policy/W6-2. Philosophy on Drug.md",
+    "STP514 Philosopy of Science Policy/W6-1. Biomedical Research, Neglected Diseases, and Well-Ordered Science.md",
+    "STP514 Philosopy of Science Policy/W6-0. Industrialization of Pharmarcy.md",
+    "STP514 Philosopy of Science Policy/W5-3. No one solution to the New demarcation problem-A view from the trenches.md",
+    "STP514 Philosopy of Science Policy/W5-2. Distinguishing between legitimate and illegitimate roles for values in transdisciplinary research.md",
+    "STP514 Philosopy of Science Policy/W5-1. New Demarcation Problem.md",
+    "STP514 Philosopy of Science Policy/W5-0. Demarcation problem.md",
+    "STP514 Philosopy of Science Policy/W3-0. Uncertainty & Value decisions.md",
+    "STP514 Philosopy of Science Policy/Ch7. How can we engage with these values.md",
+    "STP514 Philosopy of Science Policy/Ch5. What if we are uncertain.md"
   ]
 }
