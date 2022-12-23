@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "62fb5470003bc467",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db1602f51bbe46b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9505e6c339fac242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Ethics/AI Ethics on Military science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b09a88846bbe7292",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "aa7b5ce1adced611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W13-1. Can we put a price on Nature's Services (Ch5).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a56a3bea3afd6158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W13-2. Citizens, Consumers and the Environment - Reflections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7b6ac47d1e93507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UAM/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b416d39e4d039521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STP510 National Innovation System/W15-1. Cardwell's Law in Action.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15fd4740bb466494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W6-0. Industrialization of Pharmarcy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e397be8471b6c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b8573befd6dfa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec87cc8dffcd281",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "471dc85f7daa378e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2dc323e4124fb5e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4319d93b0095e81",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee63f54e8acc9233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47412d5cd5d1f9c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W6-0. Industrialization of Pharmarcy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "984784b99027f91e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W6-0. Industrialization of Pharmarcy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c4a58ba19630443",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "860ad99c94260197",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STP514 Philosopy of Science Policy/W6-0. Industrialization of Pharmarcy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "15fd4740bb466494",
+  "lastOpenFiles": [
+    "STP514 Philosopy of Science Policy/W6-2. Philosophy on Drug.md",
+    "STP514 Philosopy of Science Policy/W6-1. Biomedical Research, Neglected Diseases, and Well-Ordered Science.md",
+    "STP514 Philosopy of Science Policy/W6-0. Industrialization of Pharmarcy.md",
+    "STP514 Philosopy of Science Policy/W5-3. No one solution to the New demarcation problem-A view from the trenches.md",
+    "STP514 Philosopy of Science Policy/W5-2. Distinguishing between legitimate and illegitimate roles for values in transdisciplinary research.md",
+    "STP514 Philosopy of Science Policy/W5-1. New Demarcation Problem.md",
+    "STP514 Philosopy of Science Policy/W5-0. Demarcation problem.md",
+    "STP514 Philosopy of Science Policy/W3-0. Uncertainty & Value decisions.md",
+    "STP514 Philosopy of Science Policy/Ch7. How can we engage with these values.md",
+    "STP514 Philosopy of Science Policy/Ch5. What if we are uncertain.md"
+  ]
+}
