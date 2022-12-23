@@ -12,3 +12,4 @@ Starts from 2022 Fall semester~
 
 Libgen: Solution 사이트
 zlib: 이북 사이트
+sci-hub: 논문 사이트
